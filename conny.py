@@ -1,5 +1,5 @@
 #autori Gabriele e il nonno Cauli 30/05/2021
-
+import pygame
 from console.screen import sc
 from os import system
 from keyboard import is_pressed
